@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Crud-App",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm test"
   },
@@ -19,5 +20,11 @@
     "url": "https://github.com/Optic-Dex/Crud-app/issues"
   },
   "homepage": "https://github.com/Optic-Dex/Crud-app#readme",
-  "type": "module"
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
