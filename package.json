@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/Optic-Dex/Crud-app/issues"
   },
-  "homepage": "https://github.com/Optic-Dex/Crud-app#readme"
+  "homepage": "https://github.com/Optic-Dex/Crud-app#readme",
+  "type": "module"
 }
